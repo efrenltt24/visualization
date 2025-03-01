@@ -11,6 +11,48 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
 
       ```
+
+      Good Visualization Analysis
+      The selected visualization is a bubble chart that shows information about the world’s most visited websites. This chart successfully conveys the size of different websites’ audiences while also incorporating a smaller bar chart to highlight the categories of online traffic.From the visualization, we learn that a few websites receive an overwhelming share of global internet traffic. The top three websites—Google, YouTube, and Facebook - attract 152 billion visits per month. The visualization also provides understandings into industry trends, showing how online activity has increased. This visualization makes it easy to interpret and engaging for the audience Several key principles confirm this:
+      1.	Aesthetic: it is visually appealing, with an engaging design that captures the audience’s attention.
+      2.	Substantive: The data is presented without distortion, ensuring that viewers can trust the insights drawn from the chart.
+      3.	Perceptual: The use of a bubble chart allows viewers to quickly grasp the key message. The additional bar chart enhances clarity by breaking down industry-specific trends.
+      4.	Cognitive Load: The visualization avoids unnecessary complexity. It presents all relevant information, allows for easy comparison.
+      5.	Gestalt Principles
+            A.	Proximity & Similarity – Websites of the same industry are grouped together, making trends easy to spot.
+            B.	Continuity – The layout naturally guides the viewer’s eyes across the information.
+            C.	Closure & Enclosure – The bubble chart format helps form logical groupings.
+            D.	Connection – The supporting bar chart strengthens the analysis by linking website rankings to industry categories.
+      6.	Four conventions of data
+            A.	2D Image: The flat visualization ensures readability.
+            B.	Clean Layout: The layout is simple, reducing distractions.
+            C.	Geometric Shapes & Lines: The use of bubbles and bars makes the data easy to compare.
+            D.	Data Source Inclusion: The source is clearly referenced.
+      
+      
+      Bad Visualization Analysis
+      visualization is a bar chart ranking countries by the number of serial killers, with a map that doesn’t have a clear context. This visualization is a bad example because it misrepresents data, creates confusion, and violates key design principles. choosing a better chart type, and improving context, it could be changed into a more accurate visualization.
+      1.	Misleading Representation of Data: The chart presents the absolute number of serial killers per country without accounting for population size. Larger countries, like the United States shows to have more serial killers, but this is misleading because the USA has a larger population therefore will have more cases.
+      2.	Lack of Clarity in the Map: The map does not complement the bar chart, and it is unclear. There are no legends or explanations. This makes it difficult to interpret the information.
+      
+      Bad Visualization
+      1.	Cognitive Load 
+            A.	Difficult to process information due to the misleading use of absolute values instead of proportional data.
+      2.	Gestalt Principles 
+            A.	Proximity & Similarity – The bar chart and the map do not seem to be related
+            B.	Enclosure – The elements are scattered without clear grouping.
+            C.	Connection – There is no visual link between the chart and the map, making the relationship unclear.
+      3.	Misleading the Audience 
+            A.	The data presentation is distorted and unfair since countries with different populations are treated equally.
+            B.	The Lack of context in the map confuses the audience on what is being shown.
+            C.	There is no data source included, this reduces credibility and makes verification impossible.
+            D.	The map is redundant without additional information.
+            E.	The overall design choices mislead rather than clarify.
+
+
+      
+
+
       write here
 
 
