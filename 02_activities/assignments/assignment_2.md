@@ -19,7 +19,10 @@
       From the visualization, we learn that a few websites receive an overwhelming share of global internet traffic. 
       The top three websites—Google, YouTube, and Facebook - attract 152 billion visits per month. 
       The visualization also provides understandings into industry trends, 
-      showing how online activity has increased. This visualization makes it easy to interpret and engaging for the audience Several key principles confirm this:
+      showing how online activity has increased. 
+      This visualization makes it easy to interpret and engaging for the audience Several 
+      
+      key principles confirm this:
 
       1.Aesthetic: it is visually appealing, with an engaging design that captures the audience’s attention.
       2.Substantive: The data is presented without distortion, ensuring that viewers can trust the insights drawn from the chart.
@@ -38,9 +41,20 @@
       
       
       Bad Visualization Analysis
-      visualization is a bar chart ranking countries by the number of serial killers, with a map that doesn’t have a clear context. This visualization is a bad example because it misrepresents data, creates confusion, and violates key design principles. choosing a better chart type, and improving context, it could be changed into a more accurate visualization.
-      1.Misleading Representation of Data: The chart presents the absolute number of serial killers per country without accounting for population size. Larger countries, like the United States shows to have more serial killers, but this is misleading because the USA has a larger population therefore will have more cases.
-      2.Lack of Clarity in the Map: The map does not complement the bar chart, and it is unclear. There are no legends or explanations. This makes it difficult to interpret the information.
+      visualization is a bar chart ranking countries by the number of serial killers, 
+      with a map that doesn’t have a clear context. 
+      This visualization is a bad example because it misrepresents data, creates confusion,
+      and violates key design principles. choosing a better chart type, 
+      and improving context, it could be changed into a more accurate visualization.
+
+      1.Misleading Representation of Data: 
+      The chart presents the absolute number of serial killers per country without accounting 
+      for population size. Larger countries, like the United States shows to have more serial killers, 
+      but this is misleading because the USA has a larger population therefore will have more cases.
+
+      2.Lack of Clarity in the Map: The map does not complement the bar chart, and it is unclear. 
+      There are no legends or explanations. 
+      This makes it difficult to interpret the information.
       
       Bad Visualization
       1.Cognitive Load 
@@ -68,6 +82,24 @@
     - How could this data visualization have been improved?  
       ```
       write here
+
+      Suggestions Good Visualization
+
+      1.Country-Specific Insights – A separate chart highlighting regional website dominance could provide additional context.
+      2.Improved Labeling – Enlarging text for key website names and traffic figures would make it easier to read.
+      3.Color Coding – Using different colors to represent countries of origin would make global trends more understandable.
+      
+      Suggestions Bad Visualization
+      
+      1.Instead of absolute numbers, serial killers per million people could be used to provide fair comparisons between countries of different sizes. 
+      This comparison would consider the number of serial killers per capita.
+      2.The Chart Type could be improved by using for example a scatter plot to better explain the distribution. 
+      3.Another method could be using a bar chart, and sorting countries by per capita rates. This would improve clarity.
+      4.Adding a legend to explain what the dots represent to provide details.
+      5.Mention data sources to improve credibility. 
+      6.Remove redundant components that do not add value.
+      7.Better color choices and contrasting elements could be used to improve understanding.
+
 
 
 
