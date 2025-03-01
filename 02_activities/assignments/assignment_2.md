@@ -12,6 +12,8 @@
 
       ```
 
+      VISUALIZATIONS ARE SAVED ON ASSIGNMENTS FOLDER (ASSIGNMENT-2 BRANCH)
+
       Good Visualization Analysis
       The selected visualization is a bubble chart that shows information about the world’s most visited websites. 
       This chart successfully conveys the size of different websites’ audiences while also 
