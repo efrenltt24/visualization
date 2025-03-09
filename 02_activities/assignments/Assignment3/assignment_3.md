@@ -33,7 +33,7 @@ This assignment is intentionally open-ended - you are free to create static or d
 
 Total word count should not exceed (as a maximum) 1000 words
 
-##Why am I doing this assignment?:
+### Why am I doing this assignment?:
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
 * Create and customize data visualizations from start to finish in Python
 * Apply general design principles to create accessible and equitable data visualizations
