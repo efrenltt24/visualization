@@ -12,16 +12,19 @@ LINK
 https://open.toronto.ca/dataset/permanent-bicycle-counters/
 
 About Permanent Bicycle Counters
+
 This dataset tracks the number of bicycles that pass by permanent sensors on Toronto streets and multi-use paths. 
 The City uses this data to understand how many people are cycling and to see how bicycle lane use changes with the seasons. 
 More counting stations are being added, and the data will be updated once it’s checked for accuracy.
 
 Main datasets and includes:
+
 1.	Detector Locations (cycling_permanent_counts_locations): Shows where each detector is located, along with other details.
 2.	Daily Counts (cycling_permanent_counts_daily): Shows the total number of bicycles counted each day by location and direction.
 The dataset I am using is number 2, which contains daily counts.
 
 Main Limitations regarding this data set:
+
 •	The total counts include bicycles and small vehicles like e-bikes, scooters, and e-scooters.
 •	Riders on sidewalks, in motor vehicle lanes, or in buffer zones are not included.
 
@@ -39,6 +42,7 @@ For my two visualizations, I decided to use only the daily counts from 2024. Thi
 and highlights which ones have the most activity throughout the year.
 
 Graph1-Python: Visualization 1
+
 For this visualization, I used Python to create a line chart. It shows the monthly total count for each station. 
 The graph reveals which locations have been the most active during the year and which months see the highest activity. 
 Some locations show a steady level of activity throughout the year, while one station stands out as the busiest.
