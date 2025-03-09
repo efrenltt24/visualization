@@ -127,6 +127,9 @@ Additionally, I adjusted colour labels for clarity
 
 
 
+
+
+
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
